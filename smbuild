@@ -1,0 +1,8 @@
+Plugin(source='gameserver/scripting/smdiscord.sp')
+
+Package(name='bhoptimer',
+        plugins=['smdiscord'],
+        filegroups={
+            '.': ['README.md', 'LICENSE'],
+        },
+)

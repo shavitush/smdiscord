@@ -1,0 +1,4 @@
+* text=auto
+*.sp diff=sourcepawn
+*.cfg diff=astextplain
+*.smx binary
