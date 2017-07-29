@@ -8,8 +8,6 @@ Discord chat relay for SourceMod.
 
 The plugin will relay the in-game chat into a Discord channel.
 
-[Mapzones' setup demonstration](https://www.youtube.com/watch?v=oPKso2hoLw0)
-
 # Requirements:
 * [SourceMod 1.8 and above](http://www.sourcemod.net/downloads.php)
 * [Dynamic](https://github.com/ntoxin66/Dynamic)
