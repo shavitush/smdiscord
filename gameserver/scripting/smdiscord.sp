@@ -49,7 +49,7 @@ public void OnPluginStart()
 
 	if(!LoadConfig(sError, 256))
 	{
-		SetFailState("Couldn't load the configuration file. Error: %s (\"configs/smdiscord.cfg\").");
+		SetFailState("Couldn't load the configuration file. Error: %s", error);
 	}
 }
 
